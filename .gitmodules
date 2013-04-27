@@ -1,0 +1,3 @@
+[submodule "darkage"]
+	path = darkage
+	url = https://github.com/adrido/darkage.git
